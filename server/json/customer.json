@@ -1,0 +1,17 @@
+[
+    {
+        "name": "David Restrepo",
+        "email": "david.restrepo@test.com",
+        "phone": "3100000000"
+    },
+    {
+        "name": "Ana Restrepo",
+        "email": "ana.restrepo@test.com",
+        "phone": "3100000000"
+    },
+    {
+        "name": "Juan Perez",
+        "email": "juan.perez@test.com",
+        "phone": "3100000000"
+    }
+]
